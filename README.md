@@ -30,16 +30,16 @@ From designing deep learning architectures to deploying them into real-world app
 
 ## 🚀 Flagship Projects
 
-### 🧬 Lung Cancer Detection System (End-to-End AI)
+### 🧬 Lung Cancer Classification System (End-to-End)
 
 * CNN-based multi-class classification
 * Advanced augmentation + preprocessing
-* 🚀 Deployed as a **live full-stack system** (Gradio + API)
+* 🚀 Deployed as a **live full-stack system** (Hugging Face + Render + API)
 * Includes malignant subclassification
 
 ---
 
-### 🎥 TubePulse – Prompt-Driven Insight Engine
+### 🎥 Ai Powerd Audience Intelligence System – Prompt-Driven Insight Engine
 
 * Extracts YouTube comments via API
 * Uses **Groq LLM API** for insight generation
