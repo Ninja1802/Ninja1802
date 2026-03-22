@@ -101,7 +101,7 @@ From designing deep learning architectures to deploying them into real-world app
 ## 🐍 Contribution Snake
 
 <p align="center">
-  <img src="https://github.com/SanskarAgrahari/SanskarAgrahari/blob/output/github-contribution-grid-snake.svg" />
+  <img src="https://github.com/Ninja1802/Ninja1802/blob/output/github-contribution-grid-snake.svg" />
 </p>
 
 ---
