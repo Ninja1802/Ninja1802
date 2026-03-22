@@ -1,18 +1,23 @@
-# 👋 Hi, I'm Sanskar Agrahari
+<!-- Animated Header -->
 
-🚀 **Aspiring ML Engineer | AI Engineer | Data Analyst**
-Building intelligent systems that turn data into real-world impact
+<h1 align="center">Hi 👋, I'm Sanskar Agrahari</h1>
+<h3 align="center">🚀 ML Engineer | AI Engineer | Data Analyst</h3>
+
+<p align="center">
+  <img src="https://readme-typing-svg.herokuapp.com?size=22&duration=3000&color=00F7FF&center=true&vCenter=true&width=600&lines=Building+Real-World+AI+Systems;From+Models+to+Deployment;AI+%2B+Product+Thinking;Turning+Data+into+Impact" />
+</p>
 
 ---
 
 ## 🧠 About Me
 
-I’m a developer focused on building **end-to-end AI systems**, not just models.
-From training deep learning architectures to deploying them as real-world applications, I enjoy solving problems where **AI meets usability**.
+I build **end-to-end AI systems** — not just models.
 
-✔️ Experience working with real-world data at **DRDO**
-✔️ Strong focus on **practical implementation + deployment**
-✔️ Interested in building scalable AI-driven products
+From designing deep learning architectures to deploying them into real-world applications, I focus on creating solutions that are **practical, scalable, and impactful**.
+
+* 🛰️ Worked as a **Machine Learning Intern at DRDO**
+* 🔥 Strong focus on **deployment + real-world usability**
+* 🤖 Exploring **LLMs, Computer Vision, and Intelligent Systems**
 
 ---
 
@@ -20,92 +25,104 @@ From training deep learning architectures to deploying them as real-world applic
 
 ### 🧬 Lung Cancer Detection System
 
-* Built a CNN-based multi-class classification model
-* Achieved high accuracy with advanced preprocessing techniques
-* Deployed as a **full-stack web application** (Gradio + API)
+* CNN-based multi-class classification (Normal / Benign / Malignant)
+* Advanced preprocessing + high accuracy
+* 🚀 Deployed as a **full-stack AI application** (Gradio + API)
 * Includes malignant subclassification model
 
 ---
 
-### 🎥 TubePulse – AI Insight Engine
+### 🎥 TubePulse – Prompt-Driven AI Insight Engine
 
 * Extracts YouTube comments using API
-* Uses **LLMs (Groq API)** to generate dynamic insights
-* Prompt-driven system → same data, multiple perspectives
-* Demonstrates real-world **AI + product thinking**
+* Uses **Groq LLM API** for dynamic insight generation
+* 🔁 Same data → multiple insights via prompt engineering
+* Demonstrates **AI + product thinking**
 
 ---
 
 ### 🌐 Web Intelligence NLP Pipeline
 
-* Automated web scraping + text processing system
-* Performs sentiment analysis and readability scoring
-* Converts raw content into structured insights
+* Web scraping + NLP pipeline
+* Sentiment + readability + text analytics
+* Converts unstructured data into structured insights
 
 ---
 
 ### 🎨 ColorFix Vision
 
-* Image processing pipeline for color correction
-* Enhances visual quality using OpenCV techniques
-* Useful for preprocessing in computer vision tasks
+* Image color correction using OpenCV
+* Enhances contrast, tone, and visual clarity
+* Useful for **CV preprocessing pipelines**
 
 ---
 
 ### 🔍 Real-Time Facial Verification System
 
-* Built using **Siamese Neural Networks**
-* Handles real-time face matching scenarios
-* Focused on accuracy and robustness
+* Siamese Neural Network-based verification
+* Real-time face matching
+* Focused on **accuracy + robustness**
 
 ---
 
 ## 🛠️ Tech Stack
 
-**Languages**
-Python • Java
+<p align="center">
 
-**AI / ML**
-Machine Learning • Deep Learning • NLP • Computer Vision
+<img src="https://skillicons.dev/icons?i=python,java,tensorflow,opencv,git,github" />
 
-**Frameworks & Tools**
-TensorFlow • OpenCV • NLTK • Pandas
+</p>
 
-**APIs & Deployment**
-REST APIs • Gradio • Hugging Face Spaces
+<p align="center">
+
+<img src="https://img.shields.io/badge/Machine%20Learning-ff6f00?style=for-the-badge&logo=python&logoColor=white"/>
+<img src="https://img.shields.io/badge/Deep%20Learning-8e44ad?style=for-the-badge"/>
+<img src="https://img.shields.io/badge/NLP-27ae60?style=for-the-badge"/>
+<img src="https://img.shields.io/badge/Computer%20Vision-2980b9?style=for-the-badge"/>
+<img src="https://img.shields.io/badge/APIs-34495e?style=for-the-badge"/>
+<img src="https://img.shields.io/badge/LLMs-f39c12?style=for-the-badge"/>
+
+</p>
 
 ---
 
-## 💼 Experience
+## 📊 GitHub Stats
 
-🛰️ **Machine Learning Intern – DRDO**
-
-* Worked on real-world AI systems
-* Built deep learning-based solutions for practical applications
-* Focused on performance optimization and deployment
+<p align="center">
+  <img src="https://github-readme-stats.vercel.app/api?username=Ninja1802&show_icons=true&theme=tokyonight" height="160"/>
+  <img src="https://github-readme-streak-stats.herokuapp.com/?user=SanskarAgrahari&theme=tokyonight" height="160"/>
+</p>
 
 ---
 
 ## 🌐 Connect With Me
 
-🔗 LinkedIn: https://www.linkedin.com/in/sanskaragrahari/
-📧 Email: [sanskaragraharioo3@gmail.com](mailto:sanskaragraharioo3@gmail.com)
+<p align="center">
+  <a href="https://www.linkedin.com/in/sanskaragrahari/">
+    <img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white"/>
+  </a>
+  <a href="mailto:sanskaragraharioo3@gmail.com">
+    <img src="https://img.shields.io/badge/Email-D14836?style=for-the-badge&logo=gmail&logoColor=white"/>
+  </a>
+</p>
 
 ---
 
-## ⚡ What I'm Currently Working On
+## ⚡ Current Focus
 
-* Building deployable AI systems
-* Exploring LLM-based applications
-* Improving real-time ML performance
-
----
-
-## 🎯 Goal
-
-To build intelligent systems that are not just accurate,
-but **usable, scalable, and impactful in the real world**.
+* 🚀 Building **deployable AI systems**
+* 🤖 Working on **LLM-powered applications**
+* ⚡ Optimizing real-time ML performance
 
 ---
 
-⭐ *Check out my repositories to see how I turn ideas into working AI systems.*
+## 🎯 Vision
+
+> To build intelligent systems that are not just accurate,
+> but **usable, scalable, and impactful in the real world**.
+
+---
+
+<p align="center">
+  ⭐ Explore my repositories to see how I turn ideas into working AI systems
+</p>
