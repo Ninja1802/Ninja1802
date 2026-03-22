@@ -1,87 +1,90 @@
-<!-- Animated Header -->
-
-<h1 align="center">Hi 👋, I'm Sanskar Agrahari</h1>
-<h3 align="center">🚀 ML Engineer | AI Engineer | Data Analyst</h3>
+<!-- 🌌 Custom Banner -->
 
 <p align="center">
-  <img src="https://readme-typing-svg.herokuapp.com?size=22&duration=3000&color=00F7FF&center=true&vCenter=true&width=600&lines=Building+Real-World+AI+Systems;From+Models+to+Deployment;AI+%2B+Product+Thinking;Turning+Data+into+Impact" />
+  <img src="https://capsule-render.vercel.app/api?type=waving&color=0:0f2027,50:203a43,100:2c5364&height=200&section=header&text=Sanskar%20Agrahari&fontSize=40&fontColor=ffffff&animation=fadeIn&fontAlignY=35"/>
+</p>
+
+<h1 align="center">⚡ AI Engineer | ML Builder | Problem Solver</h1>
+
+<p align="center">
+  <img src="https://readme-typing-svg.herokuapp.com?size=22&duration=3000&color=00F7FF&center=true&vCenter=true&width=700&lines=Building+AI+Systems+That+Actually+Work;From+Deep+Learning+to+Deployment;Prompt-Driven+AI+%7C+LLMs+%7C+Computer+Vision;Turning+Ideas+into+Real+Products" />
 </p>
 
 ---
 
 ## 🧠 About Me
 
-I build **end-to-end AI systems** — not just models.
+I don’t just train models — I build **complete AI systems**.
 
-From designing deep learning architectures to deploying them into real-world applications, I focus on creating solutions that are **practical, scalable, and impactful**.
+From designing deep learning architectures to deploying them into real-world applications, I focus on creating solutions that are:
 
-* 🛰️ Worked as a **Machine Learning Intern at DRDO**
-* 🔥 Strong focus on **deployment + real-world usability**
-* 🤖 Exploring **LLMs, Computer Vision, and Intelligent Systems**
+⚡ **Practical**
+⚡ **Scalable**
+⚡ **Impactful**
 
----
-
-## 🚀 Featured Projects
-
-### 🧬 Lung Cancer Detection System
-
-* CNN-based multi-class classification (Normal / Benign / Malignant)
-* Advanced preprocessing + high accuracy
-* 🚀 Deployed as a **full-stack AI application** (Gradio + API)
-* Includes malignant subclassification model
+* 🛰️ Machine Learning Intern at **DRDO**
+* 🚀 Built and deployed **real-world AI applications**
+* 🤖 Exploring **LLMs, Computer Vision & Intelligent Systems**
 
 ---
 
-### 🎥 TubePulse – Prompt-Driven AI Insight Engine
+## 🚀 Flagship Projects
 
-* Extracts YouTube comments using API
-* Uses **Groq LLM API** for dynamic insight generation
-* 🔁 Same data → multiple insights via prompt engineering
-* Demonstrates **AI + product thinking**
+### 🧬 Lung Cancer Detection System (End-to-End AI)
+
+* CNN-based multi-class classification
+* Advanced augmentation + preprocessing
+* 🚀 Deployed as a **live full-stack system** (Gradio + API)
+* Includes malignant subclassification
+
+---
+
+### 🎥 TubePulse – Prompt-Driven Insight Engine
+
+* Extracts YouTube comments via API
+* Uses **Groq LLM API** for insight generation
+* 🔁 Prompt change → Completely new insights
+* Demonstrates **AI + product mindset**
 
 ---
 
 ### 🌐 Web Intelligence NLP Pipeline
 
-* Web scraping + NLP pipeline
-* Sentiment + readability + text analytics
-* Converts unstructured data into structured insights
+* Automated scraping + NLP + analytics
+* Sentiment + readability + linguistic features
+* Converts raw web data into structured intelligence
 
 ---
 
 ### 🎨 ColorFix Vision
 
-* Image color correction using OpenCV
-* Enhances contrast, tone, and visual clarity
-* Useful for **CV preprocessing pipelines**
+* Image color correction pipeline
+* Enhances contrast, tone, and quality
+* Useful for preprocessing in CV pipelines
 
 ---
 
-### 🔍 Real-Time Facial Verification System
+### 🔍 Real-Time Facial Verification
 
-* Siamese Neural Network-based verification
+* Siamese Neural Network
 * Real-time face matching
-* Focused on **accuracy + robustness**
+* Focused on robustness & accuracy
 
 ---
 
 ## 🛠️ Tech Stack
 
 <p align="center">
-
-<img src="https://skillicons.dev/icons?i=python,java,tensorflow,opencv,git,github" />
-
+  <img src="https://skillicons.dev/icons?i=python,java,tensorflow,opencv,git,github" />
 </p>
 
 <p align="center">
-
-<img src="https://img.shields.io/badge/Machine%20Learning-ff6f00?style=for-the-badge&logo=python&logoColor=white"/>
-<img src="https://img.shields.io/badge/Deep%20Learning-8e44ad?style=for-the-badge"/>
-<img src="https://img.shields.io/badge/NLP-27ae60?style=for-the-badge"/>
-<img src="https://img.shields.io/badge/Computer%20Vision-2980b9?style=for-the-badge"/>
-<img src="https://img.shields.io/badge/APIs-34495e?style=for-the-badge"/>
-<img src="https://img.shields.io/badge/LLMs-f39c12?style=for-the-badge"/>
-
+  <img src="https://img.shields.io/badge/Machine%20Learning-ff6f00?style=for-the-badge"/>
+  <img src="https://img.shields.io/badge/Deep%20Learning-8e44ad?style=for-the-badge"/>
+  <img src="https://img.shields.io/badge/NLP-27ae60?style=for-the-badge"/>
+  <img src="https://img.shields.io/badge/Computer%20Vision-2980b9?style=for-the-badge"/>
+  <img src="https://img.shields.io/badge/LLMs-f39c12?style=for-the-badge"/>
+  <img src="https://img.shields.io/badge/APIs-34495e?style=for-the-badge"/>
 </p>
 
 ---
@@ -89,8 +92,16 @@ From designing deep learning architectures to deploying them into real-world app
 ## 📊 GitHub Stats
 
 <p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=Ninja1802&show_icons=true&theme=tokyonight" height="160"/>
-  <img src="https://github-readme-streak-stats.herokuapp.com/?user=SanskarAgrahari&theme=tokyonight" height="160"/>
+  <img src="https://github-readme-stats.vercel.app/api?username=Ninja1802&show_icons=true&theme=tokyonight&border_radius=10" height="160"/>
+  <img src="https://github-readme-streak-stats.herokuapp.com/?user=Ninja1802&theme=tokyonight&border_radius=10" height="160"/>
+</p>
+
+---
+
+## 🐍 Contribution Snake
+
+<p align="center">
+  <img src="https://github.com/SanskarAgrahari/SanskarAgrahari/blob/output/github-contribution-grid-snake.svg" />
 </p>
 
 ---
@@ -110,19 +121,24 @@ From designing deep learning architectures to deploying them into real-world app
 
 ## ⚡ Current Focus
 
-* 🚀 Building **deployable AI systems**
-* 🤖 Working on **LLM-powered applications**
-* ⚡ Optimizing real-time ML performance
+* 🚀 Deploying AI systems to production
+* 🤖 Building LLM-powered applications
+* ⚡ Optimizing real-time ML pipelines
 
 ---
 
-## 🎯 Vision
+## 🎯 Philosophy
 
-> To build intelligent systems that are not just accurate,
-> but **usable, scalable, and impactful in the real world**.
+> “AI is not just about models — it's about building systems that people can actually use.”
 
 ---
 
 <p align="center">
-  ⭐ Explore my repositories to see how I turn ideas into working AI systems
+  ⭐ If you like what I build, explore my repositories and connect!
+</p>
+
+<!-- 🌊 Footer -->
+
+<p align="center">
+  <img src="https://capsule-render.vercel.app/api?type=waving&color=0:2c5364,50:203a43,100:0f2027&height=120&section=footer"/>
 </p>
